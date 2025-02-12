@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Abhishek Kumar Sharma</h1>
 
 # 💫 About Me:
 I am a Third-year Computer Science Engineering student at SOA ITER, Bhubaneswar, passionate about coding, Java frameworks, and building robust applications."
